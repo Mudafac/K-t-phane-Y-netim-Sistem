@@ -1,0 +1,1 @@
+Verimli kitap ve kullanıcı yönetimi için Java tabanlı bir Kütüphane Yönetim Sistemi. Özellikler arasında kitap, üye, işlem yönetimi, rezervasyon, ceza sistemleri, personel ve şube yönetimi bulunmaktadır.
